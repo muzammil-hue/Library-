@@ -1,2 +1,5 @@
-function greet() { return 'hello my Library!' ; 
+function greet()
+ { return 'hello my Library!' ; 
 }
+
+module.export = {greet};
